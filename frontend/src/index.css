@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Rokkitt Thin';
+  src: url('../public/fonts/Rokkitt-VariableFont_wght.ttf');
+}
+
+body {
+  font-family: 'Rokkitt Thin';
+}
+/* 
+.rokkitt {
+  font-family: 'Rokkitt Thin';
+} */
