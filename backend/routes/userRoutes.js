@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import { obtenerDoctor, obtenerDoctores } from '../controllers/doctorController.js';
-
+// indicaciones
 import { 
   autenticar, 
   editarPerfil, 
