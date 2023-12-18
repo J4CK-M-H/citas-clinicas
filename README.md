@@ -1,5 +1,4 @@
-# citas-clinicas MERN STACK | TAILWIND
-<h1 align="center">Proyecto Citas Clinicas</h1>
+<h1 align="left">Proyecto Citas Clinicas</h1>
 <p align="left">
 </p>
 
